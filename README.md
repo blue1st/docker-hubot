@@ -8,7 +8,7 @@
 ### Create Project
 
 ```bash
-$ docker run -it -v $PWD/hubot:/hubot blue1st/hubot yo hubot
+$ docker run -it -v $PWD:/hubot blue1st/hubot yo hubot
 ? ==========================================================================
 We're constantly looking for ways to make yo better!
 May we anonymously report usage statistics to improve the tool over time?
